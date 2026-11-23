@@ -16,7 +16,7 @@ L'installation repose sur un châssis de voiture physique intégré dans une sal
 
 ## Le parcours de l'interacteur
 
-...
+L'intéracteur s'installe sur un des quatre sièges. L'un d'entre eux est le conducteur. Le conducteur est présenté un clavier et une projection au devant de l'installation. La projection montre une route infinie avec une interface de style holographique qui demande que des mots soient écrit le plus rapidement possible pour faire continuer le trajet. Le trajet prend fin quand l'un des intéracteurs échoue à leur tache ou après un but déterminé.
 
 <!-- 
 Comportement de l’interacteur
