@@ -21,15 +21,17 @@ Le scénarimage doit inclure des annotations ou des visuels montrant les répons
 -->
 
 
-## Scène #ID : Nom de scène
+## Scène #1 : Conducteur
 
-![](https://placehold.co/600x400?text=Sc%C3%A9narimage)
+![](./img/conducteur.png)
 
 **Ce que l’interacteur voit :**
-- ...
+- Le clavier directement devant eux. 
+- La projection avec l'interface et la route.
 
 **Ce que l’interacteur entend :**
-- ...
+- Le son de la voiture.
+- Le ding lorsque le mot écrit est correct.
 
 ### Tableau des automatisations
 | Déclenchement | Effet visuel | Effet sonore | Effet interactif |
@@ -39,4 +41,4 @@ Le scénarimage doit inclure des annotations ou des visuels montrant les répons
 ### Tableau des actions
 | Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
 | -- | -- | -- | -- | -- |
-|     |     |     |     |     |
+| Écrire  |  Le mot correspondant  |  Feedback de clavier sur l'interface  |  Ding quand le mot est correct  |  La voiture continue à avancer  |
