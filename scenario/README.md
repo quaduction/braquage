@@ -39,6 +39,6 @@ Le scénarimage doit inclure des annotations ou des visuels montrant les répons
 |     |     |     |     |
 
 ### Tableau des actions
-| Verbe d’action | Condition / contexte | Effet visuel | Effet sonore | Effet interactif |
-| -- | -- | -- | -- | -- |
-| Écrire  |  Le mot correspondant  |  Feedback de clavier sur l'interface  |  Ding quand le mot est correct  |  La voiture continue à avancer  |
+| Verbe d’action | Condition / contexte   | Effet visuel                          | Effet sonore                    | Effet interactif                |
+| -------------- | ---------------------- | ------------------------------------- | ------------------------------- | ------------------------------- |
+| Écrire         |  Le mot correspondant  |  Feedback de clavier sur l'interface  |  Ding quand le mot est correct  |  La voiture continue à avancer  |
