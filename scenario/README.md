@@ -35,8 +35,8 @@ Le scénarimage doit inclure des annotations ou des visuels montrant les répons
 
 ### Tableau des automatisations
 | Déclenchement | Effet visuel | Effet sonore | Effet interactif |
-| -- | -- | -- | -- |
-|     |     |     |     |
+| ------------- | ------------ | ------------ | ---------------- |
+|               |              |              |                  |
 
 ### Tableau des actions
 | Verbe d’action | Condition / contexte   | Effet visuel                          | Effet sonore                    | Effet interactif                |
