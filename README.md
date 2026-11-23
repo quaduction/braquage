@@ -25,9 +25,7 @@ un résumé du parcours de l'interacteur du début à la fin de son expérience 
 -->
 
 ## Comment le projet s'adapte pour un à plusieurs interacteurs
-
-...
+Ce projet est destiné à plusieurs personnes par ses différents postes disponibles simultanément, les quatre postes disponibles sont différents mais cruciaux à la réussite des joueurs. Les quatre joueurs sont amenés à faire preuve d'un esprit d'entraide. Ce projet s'assure que chaque rôle soit important et stimulant pour les joueurs voulant réussir des challenges ensemble.
 
 ## Pourquoi ce projet est original ?
-
-...
+Ce projet est original par son installation physique et le sentiment voulant être invoqué. Ce projet joue sur la proximité pouvant être ressentie lorsque nous sommes dans une voiture, mais aussi sur le côté stressant d'un braquage. Il cherche à rassembler les joueurs avec un sentiment universel tout en leur offrant une expérience unique par ces contrôles spéciaux. Le volant du conducteur étant un clavier et les écrans des passages tireurs étant des projections indépendantes sur les murs offrent une expérience unique aux joueurs.
